@@ -115,7 +115,6 @@ plt.show()
 
 # In[12]:
 
-
 from pylab import rcParams
 rcParams['figure.figsize'] = 17,15
 rcParams['lines.color'] = 'teal'
